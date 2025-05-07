@@ -1,4 +1,4 @@
-#CSCI 213 Lab 10: Working with Git
+# CSCI 213 Lab 10: Working with Git
 
 Author: Your Name
 
